@@ -17,3 +17,4 @@
 - [ ] make a real ground (has to be immersive)
 - [ ] attack balls to shoot our kind buddies
 - [x] webpack config
+- [ ] publish website
